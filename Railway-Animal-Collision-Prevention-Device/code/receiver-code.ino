@@ -1,3 +1,15 @@
+/*
+Railway Animal Collision Prevention Device
+Team GuardianX
+EN1190 Engineering Design Project
+
+Author contribution:
+R.A.C.D. Ranawaka - Microcontroller programming and soldering
+
+Description:
+This code controls the sensor-based receiver logic using ATmega328P.
+*/
+
 // Define Pins
 const int buzzerPin = 8; // Buzzer Positive Pin
 
