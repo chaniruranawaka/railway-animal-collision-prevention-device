@@ -1,3 +1,15 @@
+/*
+Railway Animal Collision Prevention Device
+Team GuardianX
+EN1190 Engineering Design Project
+
+Author contribution:
+R.A.C.D. Ranawaka - Microcontroller programming and soldering
+
+Description:
+This code controls the sensor-based transmitter logic using ATmega328P.
+*/
+
 // Define Pins
 const int pirPin = 2;     // PIR Sensor Output
 const int mmWavePin = 3;  // mmWave Sensor Output
