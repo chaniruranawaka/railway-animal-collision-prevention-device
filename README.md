@@ -71,8 +71,8 @@ The system includes two main units:
 ![Final Prototype](Railway-Animal-Collision-Prevention-Device/images/final-product.jpg)
 
 ### Opened Enclosure
-![Opened Enclosure of Receiver](Railway-Animal-Collision-Prevention-Device/images/opened-enclosure.jpg)
-![Opened Enclosure of Transmitter](Railway-Animal-Collision-Prevention-Device/images/opened-enclosure.jpg)
+![Opened Enclosure of Receiver](Railway-Animal-Collision-Prevention-Device/images/opened-enclosure-transmitter.jpg)
+![Opened Enclosure of Transmitter](Railway-Animal-Collision-Prevention-Device/images/opened-enclosure-receiver.jpg)
 
 ### SolidWorks Enclosure Design
 ![Enclosure Design](Railway-Animal-Collision-Prevention-Device/enclosure/solidworks-design-transmitter.jpg)
