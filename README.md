@@ -68,7 +68,7 @@ The system includes two main units:
 ## Project Images
 
 ### Final Prototype
-![Final Prototype](images/final-product.jpg)
+![Final Prototype](Railway-Animal-Collision-Prevention-Device/images/final-product.jpg)
 
 ### Opened Enclosure
 ![Opened Enclosure of Receiver](images/opened-enclosure.jpg)
