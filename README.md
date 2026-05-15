@@ -71,10 +71,12 @@ The system includes two main units:
 ![Final Prototype](images/final-product.jpg)
 
 ### Opened Enclosure
-![Opened Enclosure](images/opened-enclosure.jpg)
+![Opened Enclosure of Receiver](images/opened-enclosure.jpg)
+![Opened Enclosure of Transmitter](images/opened-enclosure.jpg)
 
 ### SolidWorks Enclosure Design
-![Enclosure Design](enclosure/solidworks-design.jpg)
+![Enclosure Design](enclosure/solidworks-design-transmitter.jpg)
+![Enclosure Design](enclosure/solidworks-design-receiver.jpg)
 
 ### PCB Design
 ![PCB Design](pcb/pcb-design.jpg)
